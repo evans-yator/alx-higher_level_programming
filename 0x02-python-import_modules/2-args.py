@@ -1,4 +1,3 @@
-  429 Bytes
 #!/usr/bin/python3
 import sys
 
